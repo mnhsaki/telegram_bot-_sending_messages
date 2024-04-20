@@ -1,4 +1,7 @@
-# Title: Telegram Bot - Sending Messages (Secure Version)
+![Logo](https://github.com/mnhsaki/telegram_bot-_sending_messages/blob/main/image.png?raw=true)
+
+
+# Telegram Bot - Sending Messages (Secure Version)
 
 ## Description:
 
