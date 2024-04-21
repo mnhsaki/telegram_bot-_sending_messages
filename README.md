@@ -17,9 +17,7 @@ This Python script demonstrates how to send a basic message to a Telegram chat u
 
 1. Install the **requests** library using pip:
 
-```
-Bash
-
+```Bash
 pip install requests
 ```
 
@@ -30,15 +28,14 @@ pip install requests
    
 ## Code Structure:
 
-```
-Python
+```python
 import requests
 
 # Replace with your securely stored Telegram Bot Token (e.g., from environment variables)
-TOKEN = None
+TOKEN = 'Add Your TOKEN'
 
 # Replace with the Chat ID of the recipient (e.g., from a configuration file)
-CHAT_ID = None
+CHAT_ID = 'Add Your Telegram Chat ID'
 
 message = 'Hello From Telegram Bot!'
 
